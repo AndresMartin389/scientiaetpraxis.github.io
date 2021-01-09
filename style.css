@@ -31,6 +31,11 @@ ul {
     height: 60px;
     padding: 20px 0;
 }
+.nav-menu {
+    text-align:center;
+    
+
+}
 .nav-brand {
     width: 80px;   
     height: 80px;
